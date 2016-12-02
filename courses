@@ -2,3 +2,27 @@ Till Date:3/12/2016 1:30 AM
 Total Courses: 7 
 Total Hours: 19
 My Progress: 0 %
+
+Begineer 3 hours  2%
+1. Introduction to Node.js
+2. NPM Playbook
+Intermediate 9 hours 
+3. Building Web Application with Node.js and express.js
+4. Large Scale Javascript on Client and Server
+5. RESTful web service with Node.js and Express.js
+Advanced 5 hours
+6. Node.js Testing Strategy
+7. Node Application Patterns
+
+What you will learn
+
+Strategies for writing asynchronous code
+EventEmitters and Streams
+Real time integration with Socket.IO
+Using Express.js
+Data access in Node.js
+Building APIs with Node.js
+Modular JavaScript
+Performance tips
+Testing
+Common tools, patterns, and best practices
